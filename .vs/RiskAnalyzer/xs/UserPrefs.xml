@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2E55B5C3-3331-479F-B4F6-A9FF22581CB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RiskAnalyzer/Forms/UserForm.cs">
+    <Files>
+      <File FileName="RiskAnalyzer/Forms/AddMaterial.cs" Line="254" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/AddUserForm.cs" Line="114" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/AdminForm.cs" Line="105" Column="25" />
+      <File FileName="RiskAnalyzer/Forms/DBConnect.cs" Line="32" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/EditMaterial.cs" Line="332" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/EditUser.cs" Line="117" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/EditUsersForm.cs" Line="84" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/HomeForm.cs" Line="30" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/NameObject.cs" Line="16" Column="1" />
+      <File FileName="RiskAnalyzer/Forms/UserForm.cs" Line="1517" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RiskAnalyzer" expanded="True">
+            <Node name="RiskAnalyzer" expanded="True">
+              <Node name="Forms" expanded="True">
+                <Node name="UserForm.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RiskAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
